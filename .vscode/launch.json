@@ -1,0 +1,11 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "julia",
+            "request": "launch",
+            "name": "Debug Debug_script.jl",
+            "program": "${workspaceFolder}/Debug_script.jl"
+        }
+    ]
+}
